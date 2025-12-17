@@ -1,0 +1,13 @@
+.post-content a {
+    color: #0d72d6;
+    font-size: 18px;
+}
+
+.post-content a:hover {
+    color: #055db5;
+}
+
+.post-content p {
+    font-size: 15px;
+}
+

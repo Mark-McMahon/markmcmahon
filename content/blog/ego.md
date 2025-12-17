@@ -1,0 +1,19 @@
++++
+title = 'the ego'
+date = '2025-12-14T23:04:55-05:00'
+author = "Mark McMahon"
+draft = false
++++
+
+I sit here trying to come up with the title of this blog post. First, I type "_a sneaky, pesky ego_". Hmm, too weird. Scrap that.
+"_the trap of living in an external world_", Now we are getting a bit preachy. Scrap that too. What about "_the ego_". Ack, seems too succint and profound. Then the thought came... I'm looking to write about the ego of man, and it's the exact things preventing me from writing this blog post.
+
+We are all programmed into thinking what success is. We all have this image of who we want to be and how we want to be viewed by others. Some would say that this image is the ego that is preventing me from naming this blog post: I'm not able to produce up to the standard of the image i've curated. I think we all try to achieve this image. To me, it seems to be what social media is. We post content in a effort to have people see us in a certain light. Our ego solicits feedback from the content we post. We hope for validation from others of the image that we are portraying. We want to believe that we are achieving this image. We look back on this images to remind us that we are upholding this image.
+
+So, producing content is about validating that we are in accordance with the image we have set up for ourselves. How does this image get curated? How do we learn what we want to be? The relationship we had with our parents growing up likely affected this more than we realize. Were we encouranged to do well in school, were we pushed to do good in sports, were we forced to be social. As children, we learned what success was supposed to look like. Now, as adults, we consume media. As we do this, the background process of our ego works hard to understand what the ideal life looks like. Simultaneously, we think how and if we fit into this image. The image is not created by us, but the world around us.
+
+We work hard to reach this image. We show up to work, trying to appear put together, intelligent, and helpful. We hang out with our friends and want to be the person that enables a good time. We want to be loving, caring, and available in our relationships. We work tirelessly and reflect on how we can improve. Then we get up and try again. What things can I change to get closer to my ideal image? The cycle continues. Framed in this way, it can be seen as a good thing. This image is driving us forward in postive ways. We are getting closer to our image.
+
+The sad thought experiment is the man who works is whole to achieve this image. This image was one not created by himself, but the environment that he was born into. Society has created these constructs of success like money and fame. Its weird to think about how money didn't exist at a certain point in time. And, now, it exists and there is so much meaning and pride behind it. This is all created by us. We chose to establish this idea of currency and ended up programming everyone into believing that the acheivement of money is equivalent to success. In this fairy tale world we created where money = happiness, can we be happy if we have money? If we believe the construct to be true, can we be happy if we achieve it? I would wager that the answer is no. The needle is always moving. Maybe more money can make us more happy. Maybe more people need to know how much money I have. The issue is that because money is a construct, we acheived it because we were told to, not because we wanted to. In turn, no amount can satisfy us, and we turn to validation from others to fill this lack of fulfillment. This is in part because the moeny not bringing happiness causes some dissonance. It doesn't makes sense how we got what we wanted but didn't get the happiness and long term satisfaction out of it. To fill this void of satisfaction, celebrities turn to drugs and the weatlhy try to donate to charities.
+
+There might be another game to play here. Instead of

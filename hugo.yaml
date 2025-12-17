@@ -1,0 +1,42 @@
+baseURL: https://rapidmedicaltransciption.org/
+languageCode: en-us
+title: Mark McMahon
+theme: PaperMod
+
+params:
+  defaultTheme: dark
+  ShowReadingTime: true
+
+  disableSpecial1stPost: true
+
+  homeInfoParams:
+    Content: |
+      Welcome to my corner of the internet! \
+      \
+      Here i'll share some thoughts I have about the world we live in.
+      It's a crazy one, isnt it? Hopefully I get around to writing somewhat consistently. It's been a goal of mine for a while.
+
+  socialIcons:
+    - name: cv
+      url: "https://drive.google.com/file/d/1S61Vdg9slrzm6f1VFYBUAMkdmpsyq9Tt/view?usp=sharing"
+    - name: github
+      url: "https://github.com/Mark-McMahon"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/-mark-mcmahon/"
+    - name: email
+      url: "mailto:mmcmahon1102@gmail.com"
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 20
+    - identifier: portfolio
+      name: Portfolio
+      url: /portfolio/
+      weight: 30

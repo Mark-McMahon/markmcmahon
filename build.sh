@@ -18,12 +18,6 @@ main() {
     echo Hugo: "$(hugo version)"
     echo Node.js: "$(node --version)"
 
-    # Clone themes repo
-    echo "Clone paperMod theme"
-    git submodule add --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
-    git submodule update --init --recursive
-    git config core.quotepath false
-
     #Build website
     echo "Building the site"
     hugo --gc --minify

@@ -5,7 +5,7 @@ author = "Mark McMahon"
 draft = false
 +++
 
-I sit here trying to come up with the title of this blog post. First, I type "_a sneaky, pesky ego_". Hmm, too weird. Scrap that.
+I sit here trying to come up with the title of my first blog post. First, I type "_a sneaky, pesky ego_". Hmm, too weird. Scrap that.
 "_the trap of living in an external world_", Now we are getting a bit preachy. Scrap that too. What about "_the ego_". Ack, seems too succint and profound. Then the thought came... I'm looking to write about the ego of man, and it's the exact things preventing me from writing this blog post.
 
 We are all programmed into thinking what success is. We all have this image of who we want to be and how we want to be viewed by others. Some would say that this image is the ego that is preventing me from naming this blog post: I'm not able to produce up to the standard of the image i've curated. I think we all try to achieve this image. To me, it seems to be what social media is. We post content in a effort to have people see us in a certain light. Our ego solicits feedback from the content we post. We hope for validation from others of the image that we are portraying. We want to believe that we are achieving this image. We look back on this images to remind us that we are upholding this image.
